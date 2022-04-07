@@ -17,7 +17,7 @@
 ## Sobre
 
 <p align="center">
-  <img src="" alt="Home page">
+  <img src="https://github.com/roberttsouza/cadastro-de-produtos/blob/main/home-pege.PNG" alt="Home page">
 </p>
 
 Esse projeto é um sistema de cadastro de produtos feito em [PHP](https://www.php.net/).
